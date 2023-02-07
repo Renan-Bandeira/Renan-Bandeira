@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Data Science and Big Data Analytics
-- 📫 Tontate-me pelo Email: renan.bandeira@hotmail.com
+- 📫 Contate-me pelo Email: renan.bandeira@hotmail.com
 - 😄 Pronouns: ELe/Dele
 
 
