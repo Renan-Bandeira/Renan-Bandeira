@@ -3,12 +3,12 @@
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Data Science and Big Data Analytics
 - 📫 Contate-me pelo e-mail: renan.bandeira@hotmail.com
-- 😄 Pronouns: ELe/Dele
+- 😄 Pronouns: eLe/dele
 
 <div>
   <a href="https://github.com/Renan-Bandeira"</a>
-  <img height"180em src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Bandeira&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&theme=dracula)](https://github.com/Renan-Bandeira/github-readme-stats)"/>
-  <img height"180em src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Bandeira&langs_count=10&theme=dracula)](https://github.com/Renan-Bandeira/github-readme-stats)"/>
+  <img height"180em" src="https://github-readme-stats.vercel.app/api?username=Renan-Bandeira&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&theme=dracula"/>
+  <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Bandeira&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
