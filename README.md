@@ -2,13 +2,14 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Data Science and Big Data Analytics
-- 📫 Contate-me pelo Email: renan.bandeira@hotmail.com
+- 📫 Contate-me pelo e-mail: renan.bandeira@hotmail.com
 - 😄 Pronouns: ELe/Dele
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Bandeira&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&theme=dracula)](https://github.com/Renan-Bandeira/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Bandeira&langs_count=10&theme=dracula)](https://github.com/Renan-Bandeira/github-readme-stats)
-
+<div>
+  <a href="https://github.com/Renan-Bandeira"</a>
+  <img height"180em src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Bandeira&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&theme=dracula)](https://github.com/Renan-Bandeira/github-readme-stats)"/>
+  <img height"180em src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Bandeira&langs_count=10&theme=dracula)](https://github.com/Renan-Bandeira/github-readme-stats)"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ren-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -21,3 +22,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
+
+
+  
