@@ -4,7 +4,6 @@
 
 - 🔭 Hoje trabalho com Back-End
 - 🌱 Estudando Data Science and Big Data Analytics
-- 📫 Contate-me pelo e-mail: renan.bandeira@hotmail.com
 - 😄 Pronouns: ele/dele
 
 ##
@@ -31,7 +30,7 @@
 ##
 
 <div> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:renan.bandeira@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renan-bandeira-s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
