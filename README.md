@@ -11,7 +11,7 @@
 
 <div>
   <a href="https://github.com/Renan-Bandeira"</a>
-  <img height"180em" src="https://github-readme-stats.vercel.app/api?username=Renan-Bandeira&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&theme=tokyonight"/>
+  <img height"180em" src="https://github-readme-stats.vercel.app/api?username=Renan-Bandeira&show_icons=true&include_all_commits=true&hide=contribs,issues&count_private=true&theme=tokyonight"/>
   <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Bandeira&layout=compact&langs_count=10&theme=tokyonight&hide=jupyter%20notebook"/>
 </div>
 
